@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GebishOrgTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-02-01T06:43:38" hostname="INsophiag.local" time="20.149">
+  <properties/>
+  <testcase name="canGetToTheCurrentBookOfGeb" classname="GebishOrgTest" time="20.149"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[ERROR - 2016-02-01T06:43:41.659Z] Session [1014f8b0-c8af-11e5-b819-a12c050ad440] - page.onError - msg: ReferenceError: Can't find variable: prettyPrint
+[ERROR - 2016-02-01T06:43:41.659Z] Session [1014f8b0-c8af-11e5-b819-a12c050ad440] - page.onError - stack:
+  (anonymous function) (http://www.gebish.org/manual/current/:14)
+]]></system-err>
+</testsuite>

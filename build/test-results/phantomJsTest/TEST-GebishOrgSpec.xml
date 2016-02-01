@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GebishOrgSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-02-01T06:43:10" hostname="INsophiag.local" time="27.874">
+  <properties/>
+  <testcase name="can get to the current Book of Geb" classname="GebishOrgSpec" time="27.874"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Feb 01, 2016 12:13:10 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: executable: /Users/sophiag/petProj/geb-example-gradle/build/webdriver/phantomjs/bin/phantomjs
+Feb 01, 2016 12:13:10 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: port: 33770
+Feb 01, 2016 12:13:10 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: arguments: [--webdriver=33770, --webdriver-logfile=/Users/sophiag/petProj/geb-example-gradle/phantomjsdriver.log]
+Feb 01, 2016 12:13:10 PM org.openqa.selenium.phantomjs.PhantomJSDriverService <init>
+INFO: environment: {}
+PhantomJS is launching GhostDriver...
+[INFO  - 2016-02-01T06:43:11.463Z] GhostDriver - Main - running on port 33770
+[INFO  - 2016-02-01T06:43:11.935Z] Session [1014f8b0-c8af-11e5-b819-a12c050ad440] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/534.34 (KHTML, like Gecko) PhantomJS/1.9.7 Safari/534.34","webSecurityEnabled":true}
+[INFO  - 2016-02-01T06:43:11.935Z] Session [1014f8b0-c8af-11e5-b819-a12c050ad440] - page.customHeaders:  - {}
+[INFO  - 2016-02-01T06:43:11.935Z] Session [1014f8b0-c8af-11e5-b819-a12c050ad440] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"1.9.7","driverName":"ghostdriver","driverVersion":"1.1.0","platform":"mac-unknown-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-02-01T06:43:11.935Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1014f8b0-c8af-11e5-b819-a12c050ad440
+[ERROR - 2016-02-01T06:43:20.551Z] Session [1014f8b0-c8af-11e5-b819-a12c050ad440] - page.onError - msg: ReferenceError: Can't find variable: prettyPrint
+[ERROR - 2016-02-01T06:43:20.551Z] Session [1014f8b0-c8af-11e5-b819-a12c050ad440] - page.onError - stack:
+  (anonymous function) (http://www.gebish.org/manual/current/:14)
+]]></system-err>
+</testsuite>

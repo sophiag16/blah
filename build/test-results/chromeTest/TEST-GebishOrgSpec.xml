@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GebishOrgSpec" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-02-01T06:41:06" hostname="INsophiag.local" time="11.72">
+  <properties/>
+  <testcase name="can get to the current Book of Geb" classname="GebishOrgSpec" time="11.72"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.19.346063 (38b35413bd4a486d436a9749e090454bc9ff6708) on port 27046
+Only local connections are allowed.
+]]></system-err>
+</testsuite>
